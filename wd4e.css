@@ -1,0 +1,40 @@
+body{
+    background: #39d87967;
+    font-size: 105%;
+}
+h2{
+    font-size: 145%;
+    font-family: Georgia, Arial, Helvetica;
+    color: #560d36;
+}
+#intro{
+    text-align: left;
+}
+#courses{
+    text-align: left;
+}
+#about{
+    text-align: right;
+}
+#hm{
+    text-align: right;
+}
+section{
+    background: #8ecb8725;
+}
+b{
+    font-size: larger;
+}
+em{
+    font-size: large;
+}
+p{
+    font-size: 110%;
+}
+summary{
+    font-family:serif;
+    font-size: larger;
+}
+a{
+    font-size: large;
+}
