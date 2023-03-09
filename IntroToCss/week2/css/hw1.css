@@ -8,7 +8,7 @@ body {
 
 header {
     background-color: rgb(35, 129, 211);
-    background-image: url("./week2/flywheel.jpg");
+    background-image: url("WebDesign4Everyone/IntroToCss/week2/flywheel.jpg");
     background-size: cover;
     /* padding: 1%; */
     border: 2px solid red;
